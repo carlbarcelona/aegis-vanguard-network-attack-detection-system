@@ -1,5 +1,6 @@
 __pycache__
 sklearn_venv
 ids_venv/
+ids2_venv/
 *.csv
 *.pcap
